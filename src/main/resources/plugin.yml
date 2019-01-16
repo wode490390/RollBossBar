@@ -1,0 +1,8 @@
+main: cn.wode490390.nukkit.rollbossbar.RollBossBar
+name: "RollBossBar"
+author: "wode490390"
+description: "Roll boss bar plugin for Nukkit"
+website: "http://wode490390.cn/"
+version: "1.1.0"
+api: ["1.0.0"]
+load: POSTWORLD

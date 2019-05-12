@@ -1,5 +1,6 @@
 # Roll Boss Bar
 [![](https://i.loli.net/2019/02/03/5c5707f95320e.gif)](http://www.mcbbs.net/thread-818960-1-1.html "血条轮播")
+
 Simple plugin to create dummy boss bar for your server.
 
 Please see [mcbbs](http://www.mcbbs.net/thread-818960-1-1.html) for more information.

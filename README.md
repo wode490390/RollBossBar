@@ -1,4 +1,4 @@
-# RollBossBar
+# Roll Boss Bar
 [![](http://i.loli.net/2018/09/02/5b8be365e1ae8.png)](http://www.mcbbs.net/thread-818960-1-1.html "血条轮播")
 Simple plugin to create dummy boss bar for your server.
 
@@ -13,22 +13,42 @@ texts:
 ### Available variables for texts
 `%NAME%` Player's name
 
-`%X%` X coordinate
+`%X%` Player's X coordinate
 
-`%Y%` Y coordinate
+`%Y%` Player's Y coordinate
 
-`%Z%` Z coordinate
+`%Z%` Player's Z coordinate
 
-`%PING%` Player's ping
+`%DIRECTION%` Player's look direction
 
 `%HEALTH%` Player's health
 
+`%MAX_HEALTH%` Player's max health
+
+`%FOOD_LEVEL%` Player's food level
+
+`%MAX_FOOD_LEVEL%` Player's max food level
+
+`%SATURATION_LEVEL%` Player's saturation level
+
 `%EXP%` Player's experience
 
-`%LEVEL%` Player's level
+`%LEVEL%` Player's experience level
+
+`%PING%` Player's ping
 
 `%WORLD%` World name
 
-`%MAXPLAYERS%` Max amount of players
+`%WORLD_TIME%` World time
+
+`%PLAYERS%` Online player count
+
+`%MAX_PLAYERS%` Max player count
 
 `%TPS%` Server TPS
+
+`%DATE%` Server date
+
+`%TIME%` Server time
+
+`%NEWLINE%` Line break
